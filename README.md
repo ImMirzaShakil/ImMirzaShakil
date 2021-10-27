@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ImMirzaShakil
+- 👋 Hi, I’m Mirza Md Shakil 
 - 👀 I’m interested in Learning New Things
 - 🌱 I’m currently learning React and Node Js
 - 💞️ I’m looking to collaborate on Web Softwares
